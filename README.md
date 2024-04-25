@@ -1,5 +1,8 @@
 # Advent of Code Challenges
 
+**Contributor(s):** _Hue Vang_
+
 ## Description
 
-* Repo of challenges from Advent of Code 2021 challenges
+* Repo for Advent of Code 2021 challenges
+
